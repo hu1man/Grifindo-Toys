@@ -1,0 +1,38 @@
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe.config
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.pdb
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.AssemblyReference.cache
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Properties.Resources.resources
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.GenerateResource.cache
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.CoreCompileInputs.cache
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.pdb
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe.licenses
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo.119F5CCE.Up2Date
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Dashboard.resources
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee.resources
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.addemployee.resources
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.viewemployees.resources
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\HND\Assignments\Grifindo Toys\Grifindo Toys\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe.config
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.pdb
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.AssemblyReference.cache
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.addemployee.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Dashboard.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Properties.Resources.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.viewemployees.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.GenerateResource.cache
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe.licenses
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.CoreCompileInputs.cache
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo.119F5CCE.Up2Date
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.pdb
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.editemployee.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.deleteemployee.resources
+E:\2131331123213123\Grifindo Toys2\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.settings.resources
